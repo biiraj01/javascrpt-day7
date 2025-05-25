@@ -1,0 +1,1 @@
+Today i learned about classes and objects in javascript in detail.
